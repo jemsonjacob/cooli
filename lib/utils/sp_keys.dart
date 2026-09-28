@@ -1,0 +1,11 @@
+const keyLanguageCode = 'KEY_LANGUAGE_CODE';
+const keyToken = "KEY_TOKEN";
+const keyThemeMode = 'KEY_THEME_MODE'; // values: light|dark|system
+const keyTenantCode = "KEY_TENANT_CODE";
+const keyUserName = "KEY_USER_NAME";
+const keyUseMobile = "KEY_USER_MOBILE";
+const keyEmail = "KEY_EMAIL";
+const keyUserId = "KEY_USER_ID";
+const keyRoleId = "KEY_ROLE_ID";
+const keyRole = "KEY_ROLE";
+const keyLocalAuthStatus = "local_auth_status";
